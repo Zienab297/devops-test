@@ -16,6 +16,8 @@ def health():
 
 
 
+what an error! 
+
 @app.get("/")
 
 def root():
